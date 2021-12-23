@@ -1,3 +1,3 @@
 # ern-stack-template
 
-<h3>Created from scratch</h3>
+<h3>Express - React - Node template created from scratch</h3>
